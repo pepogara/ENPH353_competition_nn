@@ -1,3 +1,3 @@
 # Competition Neural Network
 
-# Data Creation and Neural Network Training and Testing
+**Data Creation and Neural Network Training and Testing**
